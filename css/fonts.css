@@ -1,0 +1,209 @@
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-ExtraBold.eot');
+    src: url('Bitter-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Bitter-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Bold.eot');
+    src: url('Bitter-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Bitter-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Medium.eot');
+    src: url('Bitter-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Bitter-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-ExtraLight.eot');
+    src: url('Bitter-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Bitter-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Light.eot');
+    src: url('Bitter-Light.eot?#iefix') format('embedded-opentype'),
+        url('Bitter-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Black.eot');
+    src: url('Bitter-Black.eot?#iefix') format('embedded-opentype'),
+        url('Bitter-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Thin.eot');
+    src: url('Bitter-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Bitter-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-SemiBold.eot');
+    src: url('Bitter-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Bitter-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bitter';
+    src: url('Bitter-Regular.eot');
+    src: url('Bitter-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Bitter-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    src: url('NotoSansKR-Black-Alphabetic.eot');
+    src: url('NotoSansKR-Black-Alphabetic.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansKR-Black-Alphabetic.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    src: url('NotoSansKR-Light-Alphabetic.eot');
+    src: url('NotoSansKR-Light-Alphabetic.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansKR-Light-Alphabetic.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    src: url('NotoSansKR-Bold-Alphabetic.eot');
+    src: url('NotoSansKR-Bold-Alphabetic.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansKR-Bold-Alphabetic.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    src: url('NotoSansKR-Medium-Alphabetic.eot');
+    src: url('NotoSansKR-Medium-Alphabetic.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansKR-Medium-Alphabetic.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    src: url('NotoSansKR-Regular-Alphabetic.eot');
+    src: url('NotoSansKR-Regular-Alphabetic.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansKR-Regular-Alphabetic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    src: url('NotoSansKR-Thin-Alphabetic.eot');
+    src: url('NotoSansKR-Thin-Alphabetic.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansKR-Thin-Alphabetic.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Light.eot');
+    src: url('OpenSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-ExtraBold.eot');
+    src: url('OpenSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Bold.eot');
+    src: url('OpenSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-SemiBold.eot');
+    src: url('OpenSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Medium.eot');
+    src: url('OpenSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Regular.eot');
+    src: url('OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('OpenSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
