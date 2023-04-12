@@ -637,16 +637,19 @@ input[id="tab05"]:checked~.con5 {
     top: 13%;
     left: 32.3%;
     opacity: 0;
-    transition: all 0.6s;
+    transition: all 0.3s;
 }
 
-.brand_list_1:hover .bl1_hover {
+
+.brand_list_1:hover .bl1_hover,
+.active .bl1_hover {
     background: url(images/INDEX/BRAND/brand_list_adererror_hover.png) no-repeat left center 100%;
     position: absolute;
     top: 13%;
     left: 32.3%;
     opacity: 1;
 }
+
 
 .bl1_text {
     font-family: 'Open Sans';
@@ -673,10 +676,11 @@ input[id="tab05"]:checked~.con5 {
     top: 13%;
     left: 43.6%;
     opacity: 0;
-    transition: all 0.6s;
+    transition: all 0.3s;
 }
 
-.brand_list_2:hover .bl2_hover {
+.brand_list_2:hover .bl2_hover,
+.active .bl2_hover {
     background: url(images/INDEX/BRAND/brand_list_ami_hover.png) no-repeat left center 100%;
     position: absolute;
     top: 13%;
@@ -709,10 +713,11 @@ input[id="tab05"]:checked~.con5 {
     top: 13%;
     right: 39%;
     opacity: 0;
-    transition: all 0.6s;
+    transition: all 0.3s;
 }
 
-.brand_list_3:hover .bl3_hover {
+.brand_list_3:hover .bl3_hover,
+.active .bl3_hover {
     background: url(images/INDEX/BRAND/brand_list_balenciaga_hover.png) no-repeat left center 100%;
     position: absolute;
     top: 13%;
@@ -745,10 +750,11 @@ input[id="tab05"]:checked~.con5 {
     top: 13%;
     right: 22.8%;
     opacity: 0;
-    transition: all 0.6s;
+    transition: all 0.3s;
 }
 
-.brand_list_4:hover .bl4_hover {
+.brand_list_4:hover .bl4_hover,
+.active .bl4_hover {
     background: url(images/INDEX/BRAND/brand_list_saint_laurent_hover.png) no-repeat left center 100%;
     position: absolute;
     top: 13%;
@@ -781,10 +787,11 @@ input[id="tab05"]:checked~.con5 {
     top: 13%;
     right: 4%;
     opacity: 0;
-    transition: all 0.6s;
+    transition: all 0.3s;
 }
 
-.brand_list_5:hover .bl5_hover {
+.brand_list_5:hover .bl5_hover,
+.active .bl5_hover {
     background: url(images/INDEX/BRAND/brand_list_wooyoungmi_hover.png) no-repeat left center 100%;
     position: absolute;
     top: 13%;

@@ -20,6 +20,15 @@ $(document).ready(function () {
         return false;
     });
 
+
+
+
+    $(".tab_content label label:first").addClass("active"); //첫번째 탭이 active클래스를 붙이고, 보여줌.
+    $(".tab_content label label div").click(function () {
+
+        $(".tab_content label label").removeClass("active"); //Remove any "active" class
+        $(this).parent().addClass("active"); //선택한 탭에만 active클래스 붙임
+    });
 });
 
 /*#brand .sl*/

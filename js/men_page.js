@@ -48,7 +48,7 @@ $(document).ready(function () {
 
     //처음들어갔을때 모습 만들기...
     $(".mp_pl_section").hide(); //tab_content 부분을 모두 숨김.
-    $("ul.tabs li:first").addClass("active").show(); //첫번째 탭이 active클래스를 붙이고, 보여줌.
+    $("ul.mp_list li:first").addClass("active").show(); //첫번째 탭이 active클래스를 붙이고, 보여줌.
     $(".mp_pl_section:first").show(); //tab_contents중 첫번째꺼를 보여줌
 
     //On Click Event

@@ -10,6 +10,9 @@
     <script src="js/flickity-docs.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css" />
 
+    <!--aos-->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
     <link rel="stylesheet" href="css/flickity-docs.css">
     <link rel="shortcut icon" href="images/SNS_ICON/LOGO/logo_icon.ico" type="image/x-icon">
@@ -76,7 +79,7 @@
                 </div>
                 <div>
                     <ul class="gnb_list">
-                        <li><a href="index.html">PAR HASARD<div class="solid"></div></a>
+                        <li><a href="brand.html">PAR HASARD<div class="solid"></div></a>
                             <ul class="sub">
                                 <li><a href="brand.html">STORY</a>
                                     <ul class="sub_list">
@@ -227,7 +230,7 @@
     </div><!--main_banner-->
 
 
-    <div class="tab_content">
+    <div class="tab_content" data-aos="fade-up" data-aos-duration="1500" data-aos-easing="ease-out-back">
         <input type="radio" name="tabmenu">
         <label for="tab06">
             <div class="brand_list_6">
@@ -449,7 +452,7 @@
 
 
     <div id="event">
-        <div class="event_inner">
+        <div class="event_inner" data-aos="fade-up" data-aos-duration="1500" data-aos-easing="ease-out-back">
             <ul class="menu_box">
                 <li>
                     <a href="#none">
@@ -480,7 +483,7 @@
                 </li>
             </ul>
         </div><!--event_inner-->
-        <div class="event_inner">
+        <div class="event_inner" data-aos="fade-up" data-aos-duration="1500" data-aos-easing="ease-out-back">
             <ul class="menu_box">
                 <li>
                     <a href="#none">
@@ -665,6 +668,10 @@
     <script src="js/jquery-3.6.4.min.js"></script>
     <script src="js/sub_menu.js"></script>
     <script src="js/index.js"></script>
+    <script>
+        AOS.init();
+    </script>
+
 
 </body>
 
